@@ -174,6 +174,7 @@ Built an AI-powered predictive maintenance system using Python and Machine Learn
 ## 👨‍💻 Author
 
 Amiya Krishna Chaurasiya
+
 GitHub: https://github.com/Amiya-Krishna
 
 LinkedIn: www.linkedin.com/in/amiya-krishna-c-7047b4328
