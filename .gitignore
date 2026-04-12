@@ -1,6 +1,6 @@
+venv/
+.vscode/
+__pycache__/
+*.pyc
 data/
 models/
-__pycache__/
-*.pkl
-*.csv
-venv/
