@@ -80,6 +80,7 @@ System generates prediction and triggers alerts
 ## 📁 Folder Structure
 AI-Predictive-Maintenance-IoT/
 │
+│
 ├── data/                  
 ├── notebooks/             
 ├── src/                   
